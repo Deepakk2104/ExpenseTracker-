@@ -1,17 +1,44 @@
-## Running React on Replit
+# Expense Tracker
 
-[React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.
+## Overview
 
-[Vite](https://vitejs.dev/) is a blazing fast frontend build tool that includes features like Hot Module Reloading (HMR), optimized builds, and TypeScript support out of the box.
+Expense Tracker is a web application designed to help users manage their expenses effectively. This application allows users to add, edit, and delete expenses, providing a comprehensive overview of their spending habits. With features like data visualization and filtering options, users can gain insights into their financial habits.
 
-Using the two in conjunction is one of the fastest ways to build a web app.
+## Features
 
-### Getting Started
-- Hit run
-- Edit [App.jsx](#src/App.jsx) and watch it live update!
+- **User Authentication:** Secure login and registration.
+- **Add/Remove Expenses:** Easily track expenses by adding or deleting entries.
+- **Edit Expenses:** Modify existing expenses for accuracy.
+- **Data Visualization:** Display expense data using charts to analyze spending patterns.
+- **Filters:** Filter expenses by date, category, and amount for detailed analysis.
+- **Responsive Design:** Works seamlessly on both desktop and mobile devices.
 
-By default, Replit runs the `dev` script, but you can configure it by changing the `run` field in the [configuration file](#.replit). Here are the vite docs for [serving production websites](https://vitejs.dev/guide/build.html)
+## Technologies Used
 
-### Typescript
+- **Frontend:**
+  - HTML
+  - CSS
+  - JavaScript
+  - React
 
-Just rename any file from `.jsx` to `.tsx`. You can also try our [TypeScript Template](https://replit.com/@replit/React-TypeScript)
+- **Backend:**
+  - [Insert backend technology if applicable, e.g., Node.js, Express]
+  - [Insert database technology if applicable, e.g., MongoDB, Firebase]
+
+- **Libraries/Frameworks:**
+  - [Insert any additional libraries, e.g., Chart.js for data visualization]
+
+## Usage
+
+1. **Sign Up/Login:** Create a new account or log in to your existing account.
+2. **Add Expense:** Click on the "Add Expense" button, fill in the details, and submit.
+3. **Edit/Delete Expense:** Hover over an expense to see options for editing or deleting it.
+4. **View Charts:** Navigate to the charts section to view your spending habits.
+
+## Contributing
+
+Contributions are welcome! If you find any issues or have suggestions for improvements, please create an issue or submit a pull request.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
