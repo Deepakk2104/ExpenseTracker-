@@ -6,10 +6,8 @@ Expense Tracker is a web application designed to help users manage their expense
 
 ## Features
 
-- **User Authentication:** Secure login and registration.
 - **Add/Remove Expenses:** Easily track expenses by adding or deleting entries.
 - **Edit Expenses:** Modify existing expenses for accuracy.
-- **Data Visualization:** Display expense data using charts to analyze spending patterns.
 - **Filters:** Filter expenses by date, category, and amount for detailed analysis.
 - **Responsive Design:** Works seamlessly on both desktop and mobile devices.
 
