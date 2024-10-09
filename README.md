@@ -21,19 +21,7 @@ Expense Tracker is a web application designed to help users manage their expense
   - JavaScript
   - React
 
-- **Backend:**
-  - [Insert backend technology if applicable, e.g., Node.js, Express]
-  - [Insert database technology if applicable, e.g., MongoDB, Firebase]
 
-- **Libraries/Frameworks:**
-  - [Insert any additional libraries, e.g., Chart.js for data visualization]
-
-## Usage
-
-1. **Sign Up/Login:** Create a new account or log in to your existing account.
-2. **Add Expense:** Click on the "Add Expense" button, fill in the details, and submit.
-3. **Edit/Delete Expense:** Hover over an expense to see options for editing or deleting it.
-4. **View Charts:** Navigate to the charts section to view your spending habits.
 
 ## Contributing
 
